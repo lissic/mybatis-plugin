@@ -1,0 +1,3 @@
+com\zero\simple\model\Country.class
+com\zero\simple\mapper\CountryMapper.class
+com\zero\simple\proxy\MyMapperProxy.class
